@@ -6,4 +6,4 @@
 * **Link to the Online Project**: https://xyra.now
 * **Xahau Address to receive the prize in case of winning**: rPUPpkfohJsWVoXoXDbNZ7zKfk2FBB8Xwo
 * **Link to Documentation**: https://xyra.now/developers
-* **Other Links**: (optional, e.g., demo video, presentation, slides)
+* **Other Links**: 
